@@ -1,1 +1,1 @@
-A web based project which allows users to read different news articles at a single place.
+A news website created with MERN stack which enriches users with a wide range of news articles without costing them a penny.
